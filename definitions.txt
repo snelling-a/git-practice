@@ -1,0 +1,10 @@
+repository is a place where you put your code
+•	local repository: on your computer
+•	remote repository: backup of the local repository, can be shared
+
+
+staging area
+•	where the files wait to be pushed
+
+commit
+•	making changes official

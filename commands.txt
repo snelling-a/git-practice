@@ -1,0 +1,25 @@
+pwd
+•	Prints the current working directory. Useful on OSX to see the entire exact path where you find yourself.
+cd + dir
+•	Changes the current working directory.
+cd ..
+•	Up one directory
+d:
+•	go to that drive
+ls -a
+•	show hidden files
+ls -l
+•	display file information
+mkdir +new-folder
+•	creates new folder
+rmdir + folder
+•	deletes empty folders
+touch +file.extension
+•	creates a new file
+•	windows copy NUL new_file_name
+rm +file.extension
+•	remove file
+
+
+gitk
+•	GUI tool
